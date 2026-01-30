@@ -79,6 +79,19 @@ All blocks are integrated within a single layout cell, forming the complete VCO 
 - Compliance with 180 nm PDK latch-up and spacing rules
 
 ---
+## Area and Density
+
+### Layout Area
+- Total active area: 244.737 µm²
+
+### Density
+- Density : 0.120958
+- Device density is consistent with 180 nm design guidelines
+- Layout avoids excessive congestion and maintains sufficient routing margin
+
+  <img width="901" height="737" alt="Screenshot from 2026-01-27 11-48-13" src="https://github.com/user-attachments/assets/21bbb530-ab97-4609-ab47-022234249947" />
+
+---
 
 ## Layout Readiness
 At the completion of the layout stage:
