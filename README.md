@@ -72,7 +72,7 @@ This principle is widely used in **PLLs, clock generators, and SerDes systems**.
 
 ### 5. Physical Verification
 - **DRC** – Design Rule Check
-  <img width="635" height="593" alt="Screenshot from 2026-01-30 16-56-31" src="https://github.com/user-attachments/assets/80da564e-d056-4d14-9cc8-67f04dddbdeb" />
+<img width="635" height="593" alt="Screenshot from 2026-01-30 16-56-31" src="https://github.com/user-attachments/assets/80da564e-d056-4d14-9cc8-67f04dddbdeb" />
 
 <img width="198" height="117" alt="Screenshot from 2026-01-28 16-06-42" src="https://github.com/user-attachments/assets/6d7ca7c8-459b-4825-816e-c8e8e4371763" />
 
