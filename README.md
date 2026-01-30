@@ -71,11 +71,19 @@ This principle is widely used in **PLLs, clock generators, and SerDes systems**.
 ---
 
 ### 5. Physical Verification
-- **DRC** – Design Rule Check  
-- **LVS** – Layout vs Schematic  
+- **DRC** – Design Rule Check
+  <img width="635" height="593" alt="Screenshot from 2026-01-30 16-56-31" src="https://github.com/user-attachments/assets/80da564e-d056-4d14-9cc8-67f04dddbdeb" />
+
+<img width="198" height="117" alt="Screenshot from 2026-01-28 16-06-42" src="https://github.com/user-attachments/assets/6d7ca7c8-459b-4825-816e-c8e8e4371763" />
+
+- **LVS** – Layout vs Schematic
+<img width="635" height="684" alt="Screenshot from 2026-01-30 16-57-02" src="https://github.com/user-attachments/assets/3cc0072b-8be1-4b38-bffc-a5b5d370e5c0" />
+
+<img width="409" height="501" alt="Screenshot from 2026-01-30 16-57-44" src="https://github.com/user-attachments/assets/c498bc89-8483-485f-9d20-6b6c33944563" />
+
 - **PEX** – Parasitic Extraction  
 
-
+<img width="1739" height="852" alt="av-extr" src="https://github.com/user-attachments/assets/7493721c-41ea-4576-bc83-76f4634f348f" />
 
 ---
 
@@ -84,6 +92,8 @@ This principle is widely used in **PLLs, clock generators, and SerDes systems**.
 - Frequency shift due to parasitics analyzed
 - Comparison with pre-layout results
 
+
+<img width="1920" height="1080" alt="Screenshot from 2026-01-27 11-39-33" src="https://github.com/user-attachments/assets/08912a0a-05bb-465f-98e0-37c489246fd8" />
 
 
 ---
