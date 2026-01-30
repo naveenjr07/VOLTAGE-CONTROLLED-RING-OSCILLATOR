@@ -29,6 +29,8 @@ All simulations are performed using the **testbench described in `testbench.md`*
 
 ### Result
 
+<img width="1920" height="1080" alt="Screenshot from 2026-01-27 11-39-33" src="https://github.com/user-attachments/assets/80e1f5ff-01fc-412e-af3d-992031622166" />
+
 
 <img width="1920" height="979" alt="Screenshot from 2026-01-30 15-51-26" src="https://github.com/user-attachments/assets/09cc2f7d-24e0-49ee-8d03-ec331a09ed69" />
 
