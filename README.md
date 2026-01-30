@@ -57,6 +57,9 @@ This principle is widely used in **PLLs, clock generators, and SerDes systems**.
 <img width="1916" height="857" alt="Screenshot from 2026-01-27 11-43-47" src="https://github.com/user-attachments/assets/a06a8732-ef31-4177-a5d7-81bb7e7ddf27" />
 
 
+<img width="1920" height="979" alt="Screenshot from 2026-01-30 15-51-26" src="https://github.com/user-attachments/assets/542528d5-fa1f-4ba8-9b88-48269d93cebf" />
+
+
 ---
 
 ### 4. Layout Design
