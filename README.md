@@ -108,4 +108,23 @@ This principle is widely used in **PLLs, clock generators, and SerDes systems**.
 
 ---
 
+### 🔧 Design Environment
+- **EDA Tool:** Cadence Virtuoso
+- **Design Level:** Transistor-level (CMOS)
+- **Circuit Type:** Delay-line based ring oscillator
+- **Technology:** CMOS (GPDK180-based)
+
+---
+
+## 👤 Authors
+[Naveen J](https://www.linkedin.com/in/naveenjeyakumar)
+
+[Lingeshwaran S](https://www.linkedin.com/in/lingeshwaran205)
+
+## Under the guidance of:
+
+[Dr.Elango S](https://www.linkedin.com/in/elango-sekar-8973b958)
+
+---
+
 
